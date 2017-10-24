@@ -1,0 +1,231 @@
+@media (max-width: 575px) {
+  /********************************************************
+  
+                       NAVIGACIJA
+  
+  ********************************************************/
+  .kill {
+    display: none; }
+
+  i.fa.fa-bars {
+    display: inline-block; }
+
+  .col-md-3.emze {
+    display: none; }
+
+  .col-md-3.vesti {
+    display: none; } }
+@media (min-width: 576px) and (max-width: 767px) {
+  .kill {
+    /********************************************************
+    
+                        NAVIGACIJA
+    
+    ********************************************************/
+    display: none; }
+
+  i.fa.fa-bars {
+    display: inline-block; }
+
+  .container {
+    max-width: 576px; }
+
+  .navigacija {
+    max-width: 576px; }
+
+  .col-md-3.emze {
+    display: none; }
+
+  .col-md-3.vesti {
+    display: none; }
+
+  /********************************************************
+  
+                     GLAVNI SLIDER
+  
+  ********************************************************/
+  .box {
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    width: 300px;
+    height: 140px;
+    background-color: rgba(0, 0, 0, 0.6); }
+    .box h2 {
+      font-size: 14px;
+      font-weight: lighter;
+      color: #fff;
+      text-transform: uppercase;
+      padding-top: 15px;
+      padding-left: 15px; }
+    .box h3 {
+      font-size: 18px;
+      font-weight: 400;
+      color: #fff;
+      text-transform: uppercase;
+      padding-left: 15px;
+      margin-bottom: 25px; }
+    .box button {
+      font-size: 13px;
+      font-weight: 300;
+      text-transform: uppercase;
+      width: 180px;
+      margin-left: 15px; }
+
+  /********************************************************
+  
+                  NOVI PROIZVODI SLIDER
+  
+  ********************************************************/
+  .novi-proizvodi img {
+    width: 155px; }
+
+  .bordura {
+    left: 168px; }
+
+  /********************************************************
+  
+                  	PONUDA SLIKE
+  
+  ********************************************************/
+  [class*="slika1"] {
+    padding-left: 0;
+    padding-right: 0; }
+
+  [class*="slika2"] {
+    padding-right: 0;
+    padding-left: 0; }
+
+  [class*="slika3"] {
+    padding-left: 0;
+    padding-right: 0; }
+
+  [class*="slika4"] {
+    padding-right: 0;
+    padding-left: 0; }
+
+  [class*="slika5"] {
+    padding-right: 0;
+    padding-left: 0; }
+
+  .col-md-4.slika5 {
+    display: none; }
+
+  .ponuda-slike-veca {
+    height: 323.11px;
+    overflow: hidden; }
+
+  .col-md-4.slika3 {
+    padding-right: 10px; }
+
+  .col-md-4.slika4 {
+    padding-left: 10px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  /********************************************************
+  
+                        NAVIGACIJA
+  
+  ********************************************************/
+  .kill {
+    display: none; }
+
+  i.fa.fa-bars {
+    display: inline-block; }
+
+  .container {
+    max-width: 720px; }
+
+  .navigacija {
+    max-width: 720px; }
+
+  .col-md-3.emze {
+    display: none; }
+
+  .col-md-3.vesti {
+    display: none; }
+
+  /********************************************************
+  
+                     GLAVNI SLIDER
+  
+  ********************************************************/
+  .box {
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    width: 360px;
+    height: 160px;
+    background-color: rgba(0, 0, 0, 0.6); }
+    .box h2 {
+      font-size: 16px;
+      font-weight: lighter;
+      color: #fff;
+      text-transform: uppercase;
+      padding-top: 20px;
+      padding-left: 20px; }
+    .box h3 {
+      font-size: 20px;
+      font-weight: 400;
+      color: #fff;
+      text-transform: uppercase;
+      padding-left: 20px;
+      margin-bottom: 30px; }
+    .box button {
+      font-size: 14px;
+      font-weight: 300;
+      text-transform: uppercase;
+      width: 200px;
+      margin-left: 20px; }
+
+  /********************************************************
+  
+                  NOVI PROIZVODI SLIDER
+  
+  ********************************************************/
+  .novi-proizvodi img {
+    width: 225px; }
+
+  /********************************************************
+  
+                  	PONUDA SLIKE
+  
+  ********************************************************/
+  .ponuda-slike-veca {
+    height: 261.52px;
+    overflow: hidden; } }
+@media (min-width: 992px) and (max-width: 1199px) {
+  /********************************************************
+  
+                      NAVIGACIJA
+  
+  ********************************************************/
+  .container {
+    max-width: 940px; }
+
+  .navigacija {
+    max-width: 940px; }
+
+  ul.dropdown-menu.megamenu.row {
+    max-width: 940px; }
+
+  /********************************************************
+  
+                  NOVI PROIZVODI SLIDER
+  
+  ********************************************************/
+  .novi-proizvodi img {
+    width: 335px; }
+
+  .bordura {
+    left: 36.665px; }
+
+  /********************************************************
+  
+                  	PONUDA SLIKE
+  
+  ********************************************************/
+  .ponuda-slike-veca {
+    height: 346.73px;
+    overflow: hidden; } }
+
+/*# sourceMappingURL=responsive.css.map */
