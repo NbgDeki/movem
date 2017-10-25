@@ -119,7 +119,24 @@
     padding-right: 10px; }
 
   .col-md-4.slika4 {
-    padding-left: 10px; } }
+    padding-left: 10px; }
+
+  /********************************************************
+  
+                  	   BRENDOVI
+  
+  ********************************************************/
+  .boss {
+    margin-bottom: 30px; }
+
+  .canali {
+    margin-bottom: 30px; }
+
+  .armani {
+    margin-bottom: 30px; }
+
+  .zegna {
+    margin-bottom: 30px; } }
 @media (min-width: 768px) and (max-width: 991px) {
   /********************************************************
   
@@ -192,7 +209,21 @@
   ********************************************************/
   .ponuda-slike-veca {
     height: 261.52px;
-    overflow: hidden; } }
+    overflow: hidden; }
+
+  /********************************************************
+  
+                  	   BRENDOVI
+  
+  ********************************************************/
+  .boss {
+    margin-bottom: 30px; }
+
+  .canali {
+    margin-bottom: 30px; }
+
+  .armani {
+    margin-bottom: 30px; } }
 @media (min-width: 992px) and (max-width: 1199px) {
   /********************************************************
   

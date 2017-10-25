@@ -384,10 +384,17 @@ ul.dropdown-menu.megamenu.row {
 				  NOVI PROIZVODI SLIDER
 
 ************************************************************/
-.owl-prev {
+.prev {
   position: absolute;
-  left: 0;
-  bottom: 100px; }
+  left: -45px;
+  bottom: 220px;
+  cursor: pointer; }
+
+.next {
+  position: absolute;
+  right: -45px;
+  bottom: 220px;
+  cursor: pointer; }
 
 .novi-proizvodi {
   width: 100%;
@@ -464,5 +471,20 @@ ul.dropdown-menu.megamenu.row {
 .ponuda-slike-veca {
   height: 447.48px;
   overflow: hidden; }
+
+/************************************************************
+
+				  	    BRENDOVI
+
+************************************************************/
+[class*="brendovi"] {
+  padding-left: 0;
+  padding-right: 0; }
+
+.brendovi a img {
+  opacity: 0.4;
+  transition: all .5s ease; }
+  .brendovi a img:hover {
+    opacity: 1; }
 
 /*# sourceMappingURL=style.css.map */
